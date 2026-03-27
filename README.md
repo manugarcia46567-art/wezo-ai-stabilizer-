@@ -14,7 +14,7 @@
 Modern engineering teams spend 40% of their time "firefighting" infrastructure. Wezo reclaims that time by inserting an intelligent layer between your code and your deployment. We don't just find bugs; we **extinguish** them.
 
 [👉 Claim Your Infrastructure Edge — Join the Waitlist](https://ngana.my.canva.site/wezo)
-*First 50 signups receive 3 months of Wezo Pro ($87 value) for free.*
+*First 50 signups receive  14 days of Wezo Pro ($87 value) for free.*
 
 ---
 
@@ -63,7 +63,7 @@ Modern engineering teams spend 40% of their time "firefighting" infrastructure. 
 | Tier | Target | Features | Price |
 | :--- | :--- | :--- | :--- |
 | **Starter** | Individual Devs | 2 Repos, AI Verifier, Standard Logs | **$0** |
-| **Pro** | Growing Teams | Unlimited Repos, Auto-Remediation, Priority Support | **$29/mo** |
+| **Pro** | Growing Teams | Unlimited Repos, Auto-Remediation, Priority Support | **$20/mo** |
 | **Enterprise** | Large Scale | Custom Guardrails, Predictive Security, SLA 99.99% | **Contact Us** |
 
 ---
